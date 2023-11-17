@@ -65,6 +65,7 @@ With the given hyperparameters, the agent solved the environment within 565 epis
 ![Agent1](https://github.com/swethasubu93/Reinforcement-Learning-Project/assets/109064336/eb5fc8ff-c1af-44bf-aa49-7775f78481e1)
 
 Below is the video of lunar landing with Agent 1.
+
 https://github.com/swethasubu93/Reinforcement-Learning-Project/assets/109064336/f13f7389-8ad4-4147-a031-b8cc4d74ec89
 
 **Agent 2**
@@ -72,6 +73,7 @@ With the given hyperparameters, the agent could not solve the environment and th
 ![Agent2](https://github.com/swethasubu93/Reinforcement-Learning-Project/assets/109064336/9c8c8d12-8c63-4165-b00f-1cff139a5e84)
 
 Below is the video of lunar landing with Agent 2.
+
 https://github.com/swethasubu93/Reinforcement-Learning-Project/assets/109064336/c8997fb0-9632-4e42-92f8-55642b53f0ef
 
 It can be observed that average score of Agent 2 was not decreasing after a point. This could be due to the decrease in learning rate value and the change of seed value when compared to Agent 1.
