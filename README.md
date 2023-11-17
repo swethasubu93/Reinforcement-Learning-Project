@@ -1,5 +1,4 @@
 # Lunar Landing with Reinforcement Learning
-[lunarlanderpost-2](https://github.com/swethasubu93/Reinforcement-Learning-Project/assets/109064336/46f06525-0c51-425a-a645-ecdbb7dddcd3)
 
 ### Overview
 This is an implementation of a lunar landing experiment using reinforcement learning. The goal of the project is to train an agent to autonomously land a spacecraft on the lunar surface by learning from its environment through reinforcement learning techniques.
