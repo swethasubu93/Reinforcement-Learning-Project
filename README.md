@@ -37,6 +37,8 @@ Network update frequency (Update_every) determines how often the update occurs, 
 The DQN algorithm is built such that if average of last 100 scores (score is total reward from each episode) is above a certain value then training stops and this means agent has solved the environment.
 
 ### Experiment architecture
+[Jupyter Notebook](https://github.com/swethasubu93/Reinforcement-Learning-Project/blob/main/RL-%20DQN.ipynb)
+
 I have trained two agents in the lunar environment, with difference only in three hyperparameters - batch size, learning rate and seed. 
 The common hyperparameters are:
 - Action size = 4 (based on environment - lunar)
